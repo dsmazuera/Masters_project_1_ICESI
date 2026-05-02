@@ -1,4 +1,4 @@
-# Master Proyect 1 ICESI
+# Master´s Proyect 1 ICESI
 
 Citizen Perception of Corruption in Colombia
 
