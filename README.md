@@ -1,6 +1,6 @@
-# Master´s Project 1 ICESI
+## 📄 Master´s Project 1
 
-## Title Citizen Perception of Corruption in Colombia
+**Title:** *Citizen Perception of Corruption in Colombia*
 
 This project looks at how people in Colombia react to corruption using sentiment analysis. Traditional indicators, like CPI or World Bank data, are based on expert opinions, but they do not fully show what citizens actually feel. This study tries to fill that gap by analyzing real comments from social media.
 
