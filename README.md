@@ -1,4 +1,4 @@
-## 📄 Master´s Project 1
+## 📄 Master's Project 1
 
 **Title:** *Citizen Perception of Corruption in Colombia*
 
