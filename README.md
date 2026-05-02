@@ -5,9 +5,11 @@ Citizen Perception of Corruption in Colombia
 This project looks at how people in Colombia react to corruption using sentiment analysis. Traditional indicators, like CPI or World Bank data, are based on expert opinions, but they do not fully show what citizens actually feel. This study tries to fill that gap by analyzing real comments from social media.
 
 🔍 Objective
+
 The goal is to understand how citizens express their opinions and emotions about corruption, and to identify which sentiment analysis model works best in this type of context.
 
 🧠 Approach
+
 First, different sentiment analysis methods were reviewed, including lexicon-based models, machine learning, deep learning, and Transformers. Based on this, several criteria were defined to choose the best model:
 
 1. Ability to understand Spanish (especially informal language).
@@ -18,6 +20,7 @@ First, different sentiment analysis methods were reviewed, including lexicon-bas
 After this process, the model BETO (a Spanish version of BERT) was selected.
 
 ⚙️ Data
+
 The analysis is based on around 2,900 comments from YouTube related to the MinTIC–Centros Poblados corruption case. YouTube was used because access to Twitter data was limited. The comments were cleaned, but informal language was kept to reflect how people actually speak online.
 
 📈 Results
@@ -38,9 +41,11 @@ The model was able to detect not only clear opinions, but also more complex expr
 3. Results may include bias from the training data.
 4. 
 💡 Contribution
+
 This project shows that social media can be a useful source to understand how people feel about corruption. It also shows that sentiment analysis can complement traditional indicators by adding a citizen perspective.
 
 ✅ Conclusion
+
 This project shows that analyzing social media can help us better understand how people feel about corruption. The results confirm that there is a strong negative perception, driven by distrust and frustration toward institutions.
 It also shows that choosing the right model is important. Simpler methods are not enough for this type of data, while models like BETO are better at understanding context, informal language, and complex expressions.
 Even with some limitations, this approach adds value by including the citizen perspective, which is often missing in traditional indicators.
